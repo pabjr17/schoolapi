@@ -6,7 +6,8 @@
       "topGoalscorer": "Robert Lewandowski",
       "topTransfer": "Leroy Sané",
       "yearsInBundesliga": 58,
-      "captain": "Manuel Neuer"
+      "captain": "Manuel Neuer",
+      "colorCode": "#DC052D"
     },
     {
       "name": "Borussia Dortmund",
@@ -14,7 +15,8 @@
       "topGoalscorer": "Marco Reus",
       "topTransfer": "Erling Haaland",
       "yearsInBundesliga": 55,
-      "captain": "Marco Reus"
+      "captain": "Marco Reus",
+      "colorCode": "#FFD700"
     },
     {
       "name": "Borussia Mönchengladbach",
@@ -22,7 +24,8 @@
       "topGoalscorer": "Alassane Pléa",
       "topTransfer": "Marcus Thuram",
       "yearsInBundesliga": 54,
-      "captain": "Lars Stindl"
+      "captain": "Lars Stindl",
+      "colorCode": "#3D8B37"
     },
     {
       "name": "RB Leipzig",
@@ -30,7 +33,8 @@
       "topGoalscorer": "Emil Forsberg",
       "topTransfer": "Dayot Upamecano",
       "yearsInBundesliga": 12,
-      "captain": "Marcel Sabitzer"
+      "captain": "Marcel Sabitzer",
+      "colorCode": "#FFFFFF"
     },
     {
       "name": "VfL Wolfsburg",
@@ -38,7 +42,8 @@
       "topGoalscorer": "Wout Weghorst",
       "topTransfer": "Maxence Lacroix",
       "yearsInBundesliga": 25,
-      "captain": "Josuha Guilavogui"
+      "captain": "Josuha Guilavogui",
+      "colorCode": "#00A650"
     },
     {
       "name": "FC Augsburg",
@@ -46,7 +51,8 @@
       "topGoalscorer": "André Hahn",
       "topTransfer": "Rafal Gikiewicz",
       "yearsInBundesliga": 11,
-      "captain": "Daniel Caligiuri"
+      "captain": "Daniel Caligiuri",
+      "colorCode": "#0066B2"
     },
     {
       "name": "Eintracht Frankfurt",
@@ -54,7 +60,8 @@
       "topGoalscorer": "André Silva",
       "topTransfer": "Luka Jovic",
       "yearsInBundesliga": 52,
-      "captain": "David Abraham"
+      "captain": "David Abraham",
+      "colorCode": "#FFC000"
     },
     {
       "name": "FC Köln",
@@ -62,7 +69,8 @@
       "topGoalscorer": "Sebastian Andersson",
       "topTransfer": "Jan Thielmann",
       "yearsInBundesliga": 54,
-      "captain": "Jonas Hector"
+      "captain": "Jonas Hector",
+      "colorCode": "#FFC600"
     },
     {
       "name": "SC Freiburg",
@@ -70,7 +78,8 @@
       "topGoalscorer": "Nils Petersen",
       "topTransfer": "Roland Sallai",
       "yearsInBundesliga": 21,
-      "captain": "Christian Günter"
+      "captain": "Christian Günter",
+      "colorCode": "#009D7E"
     },
     {
       "name": "Hertha BSC",
@@ -78,7 +87,8 @@
       "topGoalscorer": "Matheus Cunha",
       "topTransfer": "Deyovaisio Zeefuik",
       "yearsInBundesliga": 57,
-      "captain": "Vladimír Darida"
+      "captain": "Vladimír Darida",
+      "colorCode": "#0055A4"
     },
     {
       "name": "TSG Hoffenheim",
@@ -86,7 +96,8 @@
       "topGoalscorer": "Andrej Kramaric",
       "topTransfer": "Chris Richards",
       "yearsInBundesliga": 14,
-      "captain": "Benjamin Hübner"
+      "captain": "Benjamin Hübner",
+      "colorCode": "#881D40"
     },
     {
       "name": "Arminia Bielefeld",
@@ -94,7 +105,8 @@
       "topGoalscorer": "Ritsu Doan",
       "topTransfer": "Fabian Kunze",
       "yearsInBundesliga": 17,
-      "captain": "Fabian Kunze"
+      "captain": "Fabian Kunze",
+      "colorCode": "#000000"
     },
     {
       "name": "Bayer Leverkusen",
@@ -102,7 +114,8 @@
       "topGoalscorer": "Lucas Alario",
       "topTransfer": "Mitchell Weiser",
       "yearsInBundesliga": 43,
-      "captain": "Lars Bender"
+      "captain": "Lars Bender",
+      "colorCode": "#E3002E"
     },
     {
       "name": "1. FC Nürnberg",
@@ -110,7 +123,8 @@
       "topGoalscorer": "N/A",
       "topTransfer": "N/A",
       "yearsInBundesliga": 57,
-      "captain": "Hanno Behrens"
+      "captain": "Hanno Behrens",
+      "colorCode": "#EE1F33"
     },
     {
       "name": "Mainz 05",
@@ -118,7 +132,8 @@
       "topGoalscorer": "Karim Onisiwo",
       "topTransfer": "Leandro Barreiro",
       "yearsInBundesliga": 17,
-      "captain": "Moussa Niakhaté"
+      "captain": "Moussa Niakhaté",
+      "colorCode": "#E60026"
     },
     {
       "name": "Schalke 04",
@@ -126,7 +141,8 @@
       "topGoalscorer": "Matthew Hoppe",
       "topTransfer": "Victor Palsson",
       "yearsInBundesliga": 56,
-      "captain": "Sead Kolašinac"
+      "captain": "Sead Kolašinac",
+      "colorCode": "#04B4E0"
     },
     {
       "name": "VfB Stuttgart",
@@ -134,7 +150,8 @@
       "topGoalscorer": "Sasa Kalajdzic",
       "topTransfer": "Konstantinos Mavropanos",
       "yearsInBundesliga": 53,
-      "captain": "Gonzalo Castro"
+      "captain": "Gonzalo Castro",
+      "colorCode": "#FFD100"
     },
     {
       "name": "Werder Bremen",
@@ -142,7 +159,8 @@
       "topGoalscorer": "Josh Sargent",
       "topTransfer": "Felix Agu",
       "yearsInBundesliga": 58,
-      "captain": "Niklas Moisander"
+      "captain": "Niklas Moisander",
+      "colorCode": "#00853F"
     }
   ]
 }
