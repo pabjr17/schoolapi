@@ -4,109 +4,145 @@
       "name": "Bayern Munich",
       "timesWon": 31,
       "topGoalscorer": "Robert Lewandowski",
-      "topTransfer": "Leroy Sané"
+      "topTransfer": "Leroy Sané",
+      "yearsInBundesliga": 58,
+      "captain": "Manuel Neuer"
     },
     {
       "name": "Borussia Dortmund",
       "timesWon": 8,
       "topGoalscorer": "Marco Reus",
-      "topTransfer": "Erling Haaland"
+      "topTransfer": "Erling Haaland",
+      "yearsInBundesliga": 55,
+      "captain": "Marco Reus"
     },
     {
       "name": "Borussia Mönchengladbach",
       "timesWon": 5,
       "topGoalscorer": "Alassane Pléa",
-      "topTransfer": "Marcus Thuram"
+      "topTransfer": "Marcus Thuram",
+      "yearsInBundesliga": 54,
+      "captain": "Lars Stindl"
     },
     {
       "name": "RB Leipzig",
       "timesWon": 0,
       "topGoalscorer": "Emil Forsberg",
-      "topTransfer": "Dayot Upamecano"
+      "topTransfer": "Dayot Upamecano",
+      "yearsInBundesliga": 12,
+      "captain": "Marcel Sabitzer"
     },
     {
       "name": "VfL Wolfsburg",
       "timesWon": 1,
       "topGoalscorer": "Wout Weghorst",
-      "topTransfer": "Maxence Lacroix"
+      "topTransfer": "Maxence Lacroix",
+      "yearsInBundesliga": 25,
+      "captain": "Josuha Guilavogui"
     },
     {
       "name": "FC Augsburg",
       "timesWon": 0,
       "topGoalscorer": "André Hahn",
-      "topTransfer": "Rafal Gikiewicz"
+      "topTransfer": "Rafal Gikiewicz",
+      "yearsInBundesliga": 11,
+      "captain": "Daniel Caligiuri"
     },
     {
       "name": "Eintracht Frankfurt",
       "timesWon": 1,
       "topGoalscorer": "André Silva",
-      "topTransfer": "Luka Jovic"
+      "topTransfer": "Luka Jovic",
+      "yearsInBundesliga": 52,
+      "captain": "David Abraham"
     },
     {
       "name": "FC Köln",
       "timesWon": 2,
       "topGoalscorer": "Sebastian Andersson",
-      "topTransfer": "Jan Thielmann"
+      "topTransfer": "Jan Thielmann",
+      "yearsInBundesliga": 54,
+      "captain": "Jonas Hector"
     },
     {
       "name": "SC Freiburg",
       "timesWon": 0,
       "topGoalscorer": "Nils Petersen",
-      "topTransfer": "Roland Sallai"
+      "topTransfer": "Roland Sallai",
+      "yearsInBundesliga": 21,
+      "captain": "Christian Günter"
     },
     {
       "name": "Hertha BSC",
       "timesWon": 2,
       "topGoalscorer": "Matheus Cunha",
-      "topTransfer": "Deyovaisio Zeefuik"
+      "topTransfer": "Deyovaisio Zeefuik",
+      "yearsInBundesliga": 57,
+      "captain": "Vladimír Darida"
     },
     {
       "name": "TSG Hoffenheim",
       "timesWon": 0,
       "topGoalscorer": "Andrej Kramaric",
-      "topTransfer": "Chris Richards"
+      "topTransfer": "Chris Richards",
+      "yearsInBundesliga": 14,
+      "captain": "Benjamin Hübner"
     },
     {
       "name": "Arminia Bielefeld",
       "timesWon": 0,
       "topGoalscorer": "Ritsu Doan",
-      "topTransfer": "Fabian Kunze"
+      "topTransfer": "Fabian Kunze",
+      "yearsInBundesliga": 17,
+      "captain": "Fabian Kunze"
     },
     {
       "name": "Bayer Leverkusen",
       "timesWon": 0,
       "topGoalscorer": "Lucas Alario",
-      "topTransfer": "Mitchell Weiser"
+      "topTransfer": "Mitchell Weiser",
+      "yearsInBundesliga": 43,
+      "captain": "Lars Bender"
     },
     {
       "name": "1. FC Nürnberg",
       "timesWon": 9,
       "topGoalscorer": "N/A",
-      "topTransfer": "N/A"
+      "topTransfer": "N/A",
+      "yearsInBundesliga": 57,
+      "captain": "Hanno Behrens"
     },
     {
       "name": "Mainz 05",
       "timesWon": 0,
       "topGoalscorer": "Karim Onisiwo",
-      "topTransfer": "Leandro Barreiro"
+      "topTransfer": "Leandro Barreiro",
+      "yearsInBundesliga": 17,
+      "captain": "Moussa Niakhaté"
     },
     {
       "name": "Schalke 04",
       "timesWon": 7,
       "topGoalscorer": "Matthew Hoppe",
-      "topTransfer": "Victor Palsson"
+      "topTransfer": "Victor Palsson",
+      "yearsInBundesliga": 56,
+      "captain": "Sead Kolašinac"
     },
     {
       "name": "VfB Stuttgart",
       "timesWon": 5,
       "topGoalscorer": "Sasa Kalajdzic",
-      "topTransfer": "Konstantinos Mavropanos"
+      "topTransfer": "Konstantinos Mavropanos",
+      "yearsInBundesliga": 53,
+      "captain": "Gonzalo Castro"
     },
     {
       "name": "Werder Bremen",
       "timesWon": 4,
       "topGoalscorer": "Josh Sargent",
-      "topTransfer": "Felix Agu"
+      "topTransfer": "Felix Agu",
+      "yearsInBundesliga": 58,
+      "captain": "Niklas Moisander"
     }
   ]
 }
