@@ -1,0 +1,112 @@
+{
+  "teams": [
+    {
+      "name": "Bayern Munich",
+      "timesWon": 31,
+      "topGoalscorer": "Robert Lewandowski",
+      "topTransfer": "Leroy Sané"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "timesWon": 8,
+      "topGoalscorer": "Marco Reus",
+      "topTransfer": "Erling Haaland"
+    },
+    {
+      "name": "Borussia Mönchengladbach",
+      "timesWon": 5,
+      "topGoalscorer": "Alassane Pléa",
+      "topTransfer": "Marcus Thuram"
+    },
+    {
+      "name": "RB Leipzig",
+      "timesWon": 0,
+      "topGoalscorer": "Emil Forsberg",
+      "topTransfer": "Dayot Upamecano"
+    },
+    {
+      "name": "VfL Wolfsburg",
+      "timesWon": 1,
+      "topGoalscorer": "Wout Weghorst",
+      "topTransfer": "Maxence Lacroix"
+    },
+    {
+      "name": "FC Augsburg",
+      "timesWon": 0,
+      "topGoalscorer": "André Hahn",
+      "topTransfer": "Rafal Gikiewicz"
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "timesWon": 1,
+      "topGoalscorer": "André Silva",
+      "topTransfer": "Luka Jovic"
+    },
+    {
+      "name": "FC Köln",
+      "timesWon": 2,
+      "topGoalscorer": "Sebastian Andersson",
+      "topTransfer": "Jan Thielmann"
+    },
+    {
+      "name": "SC Freiburg",
+      "timesWon": 0,
+      "topGoalscorer": "Nils Petersen",
+      "topTransfer": "Roland Sallai"
+    },
+    {
+      "name": "Hertha BSC",
+      "timesWon": 2,
+      "topGoalscorer": "Matheus Cunha",
+      "topTransfer": "Deyovaisio Zeefuik"
+    },
+    {
+      "name": "TSG Hoffenheim",
+      "timesWon": 0,
+      "topGoalscorer": "Andrej Kramaric",
+      "topTransfer": "Chris Richards"
+    },
+    {
+      "name": "Arminia Bielefeld",
+      "timesWon": 0,
+      "topGoalscorer": "Ritsu Doan",
+      "topTransfer": "Fabian Kunze"
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "timesWon": 0,
+      "topGoalscorer": "Lucas Alario",
+      "topTransfer": "Mitchell Weiser"
+    },
+    {
+      "name": "1. FC Nürnberg",
+      "timesWon": 9,
+      "topGoalscorer": "N/A",
+      "topTransfer": "N/A"
+    },
+    {
+      "name": "Mainz 05",
+      "timesWon": 0,
+      "topGoalscorer": "Karim Onisiwo",
+      "topTransfer": "Leandro Barreiro"
+    },
+    {
+      "name": "Schalke 04",
+      "timesWon": 7,
+      "topGoalscorer": "Matthew Hoppe",
+      "topTransfer": "Victor Palsson"
+    },
+    {
+      "name": "VfB Stuttgart",
+      "timesWon": 5,
+      "topGoalscorer": "Sasa Kalajdzic",
+      "topTransfer": "Konstantinos Mavropanos"
+    },
+    {
+      "name": "Werder Bremen",
+      "timesWon": 4,
+      "topGoalscorer": "Josh Sargent",
+      "topTransfer": "Felix Agu"
+    }
+  ]
+}
